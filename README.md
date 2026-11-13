@@ -99,7 +99,7 @@ The Hubble-drag part of the velocity update is applied using the scale-factor ra
 Python 3.10 or newer is required.
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/vineet-b23/cosmic-web-simulation
 cd "Cosmic Web Formation Simulator"
 
 python -m venv .venv
